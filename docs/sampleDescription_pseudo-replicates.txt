@@ -1,0 +1,4 @@
+sample1,sample2,bam1,bam2
+ChIP_sample1,ChIP_sample2,/scratch/user/data/peaks/sample1.bam,/scratch/user/data/peaks/sample2.bam
+ChIP_sample1,ChIP_sample3,/scratch/user/data/peaks/sample1.bam,/scratch/user/data/peaks/sample3.bam
+ChIP_sample2,ChIP_sample3,/scratch/user/data/peaks/sample2.bam,/scratch/user/data/peaks/sample3.bam
